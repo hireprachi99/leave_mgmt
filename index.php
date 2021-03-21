@@ -52,8 +52,7 @@ $res=mysqli_query($con,"select * from department order by id desc");
                   </div>
                </div>
             </div>
-		  </div>
-         
+</div>
 <?php
 require('footer.inc.php');
 ?>
